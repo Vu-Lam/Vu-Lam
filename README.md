@@ -20,7 +20,8 @@
 - 🎓 Studying at **Ho Chi Minh City University of Technology (HCMUT)**
 - 💻 Currently building **[nha-ielt-testing-system](https://github.com/Vu-Lam/nha-ielt-testing-system)** — an IELTS testing platform
 - 👥 Member of [@Nha-IELTS](https://github.com/Nha-IELTS) and [@EVNSPC-VVT](https://github.com/EVNSPC-VVT)
-- 🌱 Currently exploring full-stack development — frontend, backend & deployment on Vercel
+- 🌱 Currently exploring full-stack development
+- 🔧 Also set up network infrastructure (routers, switches, IP cameras) for an IELTS testing center
 - 📍 Based in Ho Chi Minh City, Vietnam
 - ⚡ Fun fact: still chasing that Pull Shark achievement one PR at a time
 
@@ -28,7 +29,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,vercel,git,github,postgres,mongodb,supabase,docker,gcp" alt="tech stack icons" /> </p> 
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,vercel,git,github,postgres,mongodb,supabase,docker,gcp,cpp,py,java" alt="tech stack icons" /> </p> 
 
 ---
 
